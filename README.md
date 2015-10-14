@@ -21,7 +21,7 @@ like the following:
 
     mkdir -p mic
     cd mic
-    wget https://raw.github.com/bpartridge/PyPhi/master/Makefile -N && make
+    wget https://raw.githubusercontent.com/neel9102/PyPhi/master/Makefile -N && make
 
 that folder `mic` will then contain `python/_install`, which will be the
 `$PYTHONHOME` whose `bin/python` can be executed on the Phi, and whose
